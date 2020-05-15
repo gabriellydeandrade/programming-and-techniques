@@ -1,8 +1,13 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main(){
+
+    double x = -3.1415926535;
+
+
     int number_of_values, previous_number, number, cont=1, maximum_count=1;
 
     cin >> number_of_values;
